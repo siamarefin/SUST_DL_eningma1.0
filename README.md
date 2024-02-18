@@ -3,3 +3,9 @@ step1: choose the best model . we try every possible model on dataset and see wh
 step2: take avarage of 2 model accuracy . 
 step3: work on dataset . finding lable problem or box low accuracy , blur img , low mAP img for data augmentation , split night image to improve . 
 step4: train again with more than 150 epochs . 
+
+
+
+
+# mainly model find korata main kaj 
+
